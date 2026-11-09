@@ -1,6 +1,6 @@
 # Keepsake — адаптивний лендінг
 
-Демо: https://ТВІЙ_НІК.github.io/landing-keepsake/
+Демо: https://Lubo387.github.io/landing-keepsake/
 
 ## Технології
 - HTML5 (семантичні теги header, nav, main, section, article, footer, form)
